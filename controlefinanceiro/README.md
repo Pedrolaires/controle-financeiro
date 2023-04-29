@@ -1,4 +1,4 @@
-# controlefinanceiro
+# ControleFinanceiro
 
 A new Flutter project.
 
